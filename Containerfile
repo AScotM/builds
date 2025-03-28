@@ -1,4 +1,4 @@
-# Use CentOS Stream 9 or 10 as base
+# Use CentOS Stream 10 as base
 
 FROM quay.io/centos/centos:stream10  # If CentOS Stream 10 is available
 
